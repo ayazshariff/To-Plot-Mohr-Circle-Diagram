@@ -1,5 +1,6 @@
 # To-Plot-Mohr-Circle-Diagram
 Calculation of plane stress and shear stress to draw a mohr circle of radius R 
+
 #python code to draw/create mohr circle with python program
 import numpy as np
 import matplotlib.pyplot as plt
